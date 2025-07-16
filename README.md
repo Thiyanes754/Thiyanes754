@@ -88,9 +88,6 @@ const thiyanes = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiyanes754&theme=tokyonight&hide_border=false&layout=compact" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiyanes754&theme=tokyonight&hide_border=false" height="150" />
-</p>
 
 ---
 
