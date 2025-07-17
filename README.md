@@ -98,19 +98,3 @@ I'm passionate about turning real-world ideas into impactful digital websites us
 📌 Always open to opportunities and collaborations — let’s build clean and scalable tech together!
 
 ---
-
-<!-- ### 🧼 GeeksForGeeks Stats -->
-
-<!-- <p align="center">
-  <a href="https://www.geeksforgeeks.org/user/digeesh/">
-    <img src="https://gfgstatscard.vercel.app/digeesh" alt="GeeksForGeeks Profile" />
-  </a>
-</p> -->
-
----
-
-### ✨ Fun Fact
-
-I'm passionate about turning innovative ideas into impactful digital solutions using modern web technologies and automation tools like **n8n**.
-
-📌 Always open to opportunities and collaborations — let’s build scalable tech together!
