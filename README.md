@@ -41,8 +41,8 @@ const thiyanes = {
     frontend: ["React.js", "HTML5", "CSS3", "JavaScript", "Tailwind CSS", "Bootstrap"],
     backend: ["Node.js", "Express.js"],
     database: ["MongoDB", "SQL"],
-    tools: ["Netlify", "VS Code", "Git", "Postman", "Figma"],
-    others: ["UI/UX Design", "JSON", "Responsive Design"]
+    tools: ["Vercel", "VS Code", "Git", "Postman", "Figma"],
+    others: ["Web Developer 🚀", "Frontend Developer 🎨", "MERN Stack Developer ⚡"]
   },
   exploring: "Advanced React, Fullstack Projects, Clean UI",
   funFact: "I enjoy turning ideas into working web apps and crafting neat UI!",
