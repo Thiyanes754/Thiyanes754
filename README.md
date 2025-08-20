@@ -3,7 +3,7 @@
 # ✨ THIYANES ✨
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Frontend+Developer;Web+Automation+Enthusiast;React+Developer;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Frontend+Developer;React+Developer;Web+Developer;JavaScript+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
